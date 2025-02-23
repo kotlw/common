@@ -1,0 +1,3 @@
+COMMON_CONSTANT: str
+
+def hello(name: str) -> str: ...
